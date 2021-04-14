@@ -1,8 +1,6 @@
 import math
 
 n = int(input())
-cnt = 0
+cnt = 1267894214124123
 
-while cnt < int(math.sqrt(n)):
-    cnt += 1
-    print(cnt * cnt)
+print(2**4096)
